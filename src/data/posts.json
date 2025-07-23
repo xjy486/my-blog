@@ -1,0 +1,46 @@
+[
+  {
+    "slug": "typescript-best-practices",
+    "title": "TypeScript 最佳实践",
+    "excerpt": "分享 TypeScript 开发中的最佳实践，包括类型定义、接口设计和错误处理等方面的经验。",
+    "date": "2024-01-25",
+    "tags": [
+      "TypeScript",
+      "JavaScript",
+      "最佳实践",
+      "编程"
+    ],
+    "readingTime": "3 分钟阅读",
+    "author": "博主",
+    "coverImage": null
+  },
+  {
+    "slug": "nextjs-blog-guide",
+    "title": "Next.js 博客开发指南",
+    "excerpt": "详细介绍如何使用 Next.js 构建一个现代化的博客系统，包括 SSG、动态路由和 Markdown 支持。",
+    "date": "2024-01-20",
+    "tags": [
+      "Next.js",
+      "React",
+      "博客开发",
+      "SSG"
+    ],
+    "readingTime": "2 分钟阅读",
+    "author": "博主",
+    "coverImage": null
+  },
+  {
+    "slug": "welcome-to-my-blog",
+    "title": "欢迎来到我的博客",
+    "excerpt": "这是我的第一篇博客文章，介绍了这个博客的功能和特色。",
+    "date": "2024-01-15",
+    "tags": [
+      "博客",
+      "Next.js",
+      "介绍"
+    ],
+    "readingTime": "1 分钟阅读",
+    "author": "博主",
+    "coverImage": null
+  }
+]
